@@ -1,0 +1,2 @@
+# torontograndsuites
+Static site: torontograndsuites
